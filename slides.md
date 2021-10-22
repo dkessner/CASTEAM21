@@ -40,6 +40,30 @@ Darren.Kessner@marlborough.org
 
 ---
 
+## About me
+
+<br/>
+8th year at Marlborough School:
+
+- Math and Computer Science Instructor
+
+- STEM+ Program Co-Head
+
+- Computer Science curriculum coordinator
+
+<br/>
+
+Education / experience: 
+
+* Mathematics (BS, MA), Bioinformatics (PhD)
+
+* worked in software development for over 20 years
+    - Anti-virus security
+    - Application development 
+    - Computer graphics
+    - Scientific applications
+
+---
 
 ## Marlborough School
 
@@ -56,32 +80,6 @@ Darren.Kessner@marlborough.org
 
 ---
 
-
-## My Background
-
-<br/>
-7th year at Marlborough School:
-
-- Math and Computer Science Instructor
-
-- STEM+ Program Co-Head
-
-- Computer Science curriculum coordinator
-
-<br/>
-
-Education / experience: 
-
-* Mathematics (BS, MA), Bioinformatics (PhD)
-
-* worked in software development for 20 years
-    - Anti-virus security
-    - Application development: computer graphics
-    - Scientific applications (biology)
-
----
-
-
 ## Marlborough STEM+ Program
 
 Emphasis on STEM activities that are creative, collaborative, and interdisciplinary:
@@ -90,38 +88,11 @@ Emphasis on STEM activities that are creative, collaborative, and interdisciplin
 
 * Robotics (Andy Witman)
 
-* Engineering (Dr. Lee Hamill)
+* Engineering (Dr. Lee Mirsky)
 
 <br/>
 <img src="pix/stem_gallery_1.jpg" width="49%">
 <img src="pix/stem_gallery_2.jpg" width="49%">
----
-
-
-## Computer Science Curriculum
-
-* Computer Science Classes:
-
-    - Computer Programming _(Processing)_
-
-    - AP Computer Science A  _(Java)_
-
-    - Honors CS Projects  _(Processing, Java, Python, Arduino)_
-
-<br/>
-
-* Other Coding: 
-
-    - Robotics _(Java)_
-
-    - Engineering _(Arduino)_
-
-    - Math _(Python)_
-
-    - Physics _(Scratch)_
-
-    - Code Violet club
-
 ---
 
 ## Free & Open Source Software
@@ -136,11 +107,11 @@ _Benefits_
     - no cost
 _FOSS is everywhere_
 
-    - every web service 
+    - every web service depends on FOSS running on servers:
         - Amazon Web Services, Google, Microsoft
         - Zoom, Facebook, Netflix, LinkedIn, Twitch, YouTube
 
-    - every device
+    - every device uses FOSS:
         - Android (Linux)
         - Apple iOS/MacOS (BSD)
 
@@ -152,11 +123,15 @@ _FOSS is everywhere_
 
 .center[
 
-![](logos/scratch_logo.png) ![](logos/right_arrow_10.png) ![](logos/snap_logo.png)
+<a href="https://scratch.mit.edu/" target="_blank">![](logos/scratch_logo.png)</a>
+![](logos/right_arrow_10.png) 
+<a href="https://snap.berkeley.edu/" target="_blank">![](logos/snap_logo.png)</a>
 
 <br/>
 
-![](logos/processing_logo.png) ![](logos/right_arrow_10.png) ![](logos/arduino_logo.png) Arduino
+<a href="https://processing.org/" target="_blank">![](logos/processing_logo.png)</a>
+![](logos/right_arrow_10.png)
+<a href="https://www.arduino.cc/" target="_blank">![](logos/arduino_logo.png) Arduino</a>
 
 ]
 
@@ -168,20 +143,20 @@ _FOSS is everywhere_
 
 Online courses
 
-![](logos/ocw_logo.png)
+<a href="https://ocw.mit.edu" target="_blank">![](logos/ocw_logo.png)</a>
 
 <br/>
 
 Open textbooks
 
-![](logos/openstax_logo.png)
+<a href="https://openstax.org/" target="_blank">![](logos/openstax_logo.png)</a>
 
 <br/>
 
 Public domain books
 
-![](logos/pg_logo.png)
-![](logos/std_ebooks_logo_50.png)
+<a href="https://www.gutenberg.org/" target="_blank">![](logos/pg_logo.png)</a>
+<a href="https://standardebooks.org/" target="_blank">![](logos/std_ebooks_logo_50.png)</a>
 
 ]
 
@@ -194,17 +169,15 @@ AP Computer Science A
 * <a href="http://math.hws.edu/javanotes" target="_blank">David J Eck, Introduction to Programming Using Java</a>
 * <a href="https://en.wikibooks.org/wiki/Java_Programming" target="_blank">Wikibooks Java Programming</a>
 
-Precalculus (Honors, Accelerated)
+Precalculus / Calculus
 
-* <a href="https://www.stitz-zeager.com" target="_blank">Stitz Zeager Precalculus</a>
 * <a href="https://openstax.org/details/books/precalculus" target="_blank">OpenStax Precalculus</a>
 * <a href="https://openstax.org/details/books/calculus-volume-1" target="_blank">OpenStax Calculus Vol 1</a>
-
-Multivariable Calculus
-
+* <a href="https://openstax.org/details/books/calculus-volume-2" target="_blank">OpenStax Calculus Vol 2</a>
 * <a href="https://openstax.org/details/books/calculus-volume-3" target="_blank">OpenStax Calculus Vol 3</a>
-* <a href="https://www.whitman.edu/mathematics/calculus_online/" target="_blank">David Guichard, Single and Multivariable Calculus</a>
-* <a href="https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/" target="_blank">Strang, Calculus</a>
+
+OpenStax also has books on Pre-Algebra, Algebra, Trigonometry, as well as many other
+subjects.
 
 ---
 
@@ -212,18 +185,17 @@ Multivariable Calculus
 
 .center[
 
-![](logos/python_logo.png)
+<a href="https://www.python.org/" target="_blank">![](logos/python_logo.png)</a>
 
 <hr/>
 
-![](logos/data_gov_logo.png)
+<a href="https://www.data.gov/" target="_blank">![](logos/data_gov_logo.png)</a>
 
 Example: Social Security baby names  
-(2019: Olivia, Emma, Ava, Sophia, Isabella)
 
 <br/>
 
-![](logos/la_open_data_logo_50.png)
+<a href="https://data.lacity.org/" target="_blank">![](logos/la_open_data_logo_50.png)</a>
 
 Example: LAPD crime data 
 
@@ -239,7 +211,7 @@ Example: LAPD crime data
 
 <br/><br/>
 
-Teacher Resources
+Links to all the above resources and more:
 
 ### <a href="https://dkessner.github.io/TeacherResources" target="_blank">https://dkessner.github.io/TeacherResources</a>
 
